@@ -90,11 +90,13 @@ Instale my-project com npm:
 
 Durante o desenvolvimento deste projeto, obtive importantes aprendizados e evoluí em áreas essenciais do desenvolvimento web:
 
-1 - Criação de Tela de Loading: 
-Desenvolvi a lógica necessária para implementar uma tela de loading funcional e eficiente. Isso aprimorou minha capacidade de estruturar componentes e gerenciar estados no React.
+1 - Renderização Condicional: 
+Apliquei conhecimentos de renderização condicional com o objetivo de criar um conteúdo mais responsivo e personalizado para cada tipo de dispositivo.
 
-2 - Aprimoramento em Tailwind CSS:
-Aprofundei meu conhecimento na utilização do Tailwind CSS para estilização, conseguindo criar layouts modernos e responsivos com maior agilidade e precisão.
+2 - Renderização dinamica de componentes: 
+Trabalhei na renderização dinâmica de componentes, aprimorando minha habilidade de manipulação de objetos e estruturação de dados.
+
+3 - Aprimoramento em Next.js, TypeScript e Tailwind CSS: Aprofundei meu conhecimento nestas tecnologias, melhorando minha capacidade de desenvolvimento com Next.js, escrevendo código mais tipado e seguro com TypeScript, além de criar layouts modernos e responsivos com Tailwind CSS.
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
@@ -116,28 +118,3 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
-
-<h1>Viste o Site em:</h1>
-<h2>
-  <a href="https://plugowtech.vercel.app/" target="_blank" rel="noopener noreferrer">
-    https://plugowtech.vercel.app/
-  </a>
-</h2>
